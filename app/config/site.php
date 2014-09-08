@@ -7,17 +7,33 @@ return [
     'sentora_api_cache_timeout' => 10,
     // Quicker way of manipulating teams and team members for the 'about/the-team' page.
     'team' => [
-        ['name' => 'Core Developement Team',
+        ['name' => 'Project Owners',
             'members' => [
                 [
-                    'name' => 'Bobby Allen',
-                    'role' => 'Project Lead &amp; Head Developer',
-                    'gravatar_email' => 'bobbyallen.uk@gmail.com',
-                    'social_twitter' => 'https://twitter.com/bobsta63',
-                    'social_facebook' => 'http://www.facebook.com/bobsta63',
-                    'social_github' => 'https://github.com/bobsta63',
-                    'social_siteblog' => 'http://bobbyallen.me',
+					'name' => 'Tom Gates',
+                    'role' => 'Support Lead',
+                    'gravatar_email' => 'tgates@mach-hosting.com',
+                    'social_facebook' => 'https://www.facebook.com/tom.djjoker',
+                    'social_googleplus' => 'https://google.com/+TomGates71',
+                    'social_github' => 'https://github.com/TGates71',
                 ],
+                [
+                    'name' => 'Pascal Peyremorte',
+                    'role' => 'Developer Support Analyst',
+                    'gravatar_email' => 'p.peyremorte@wanadoo.fr',
+                    'social_github' => 'https://github.com/5050',
+                ],
+                [
+                    'name' => 'Sam Mottley',
+                    'role' => 'Developer',
+                    'gravatar_email' => 'sammottleys@gmail.com',
+                    'social_twitter' => 'https://twitter.com/sammottley',
+                    'social_github' => 'https://github.com/motters',
+                ],
+            ],
+        ],
+        ['name' => 'Core Developement Team',
+            'members' => [
                 [
                     'name' => 'Kevin Andrews',
                     'role' => 'Developer',
@@ -62,12 +78,9 @@ return [
         [
             'name' => 'Support Team',
             'members' => [
-                ['name' => 'Tom Gates',
-                    'role' => 'Support Lead',
-                    'gravatar_email' => 'tgates@mach-hosting.com',
-                    'social_facebook' => 'https://www.facebook.com/tom.djjoker',
-                    'social_googleplus' => 'https://google.com/+TomGates71',
-                    'social_github' => 'https://github.com/TGates71',
+                [
+					'name' => 'Pieter',
+                    'role' => 'Forum Support',
                 ],
             ],
         ],

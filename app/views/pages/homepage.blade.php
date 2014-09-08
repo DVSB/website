@@ -39,7 +39,7 @@
                     </li>
                     <li>
                         <h1 class="slider-heading">Developed with love!</h1>
-                        <p class="slider-desc">Sentora is developed by a small team of guys, lead by <a href="http://bobbyallen.me" target="_blank">Bobby Allen</a> they contribute their spare time in developing and improving the software.</p>
+                        <p class="slider-desc">Sentora is developed by a small team of guys, lead by Tom, Pascal and Sam, they contribute their spare time in developing and improving the software.</p>
                         <a href="{{ URL::route('the-team') }}" class="btn btn-white btn-lg">Meet the team</a>
                     </li>
                 </ul>
