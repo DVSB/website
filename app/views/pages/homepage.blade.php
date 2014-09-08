@@ -7,10 +7,10 @@
 <meta name="description" content="Sentora is an open-source web hosting control panel built specifically to work on a variety of Linux distributions. Sentora is licensed under the GPL and is a separately maintained fork of the original ZPanel project.">
 <meta name="keywords" content="sentora, zpanel, web, hosting, control, panel, open">
 <meta name="author" content="ballen@bobbyallen.me">
-<meta property="og:image" content="http://sentora.io/img/sentora_logo.png" />
+<meta property="og:image" content="http://sentora.org/img/sentora_logo.png" />
 <meta property="og:title" content="Sentora" />
 <meta property="og:description" content="Sentora is an open-source web hosting control panel for Linux based servers." />
-<meta property="og:url" content="http://sentora.io" />
+<meta property="og:url" content="http://sentora.org" />
 <meta property="og:site_name" content="Sentora - The open-source web hosting panel." />
 <meta property="og:locale" content="en_GB" />
 @stop

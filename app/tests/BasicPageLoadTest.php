@@ -74,7 +74,7 @@ class BasicPageLoadTest extends TestCase
     public function testFaqsPageIsRedirected()
     {
         $this->client->request('GET', '/support/faqs');
-        $this->assertTrue($this->client->getResponse()->isRedirect('http://docs.sentora.io/?node=94'));
+        $this->assertTrue($this->client->getResponse()->isRedirect('http://docs.sentora.org/?node=94'));
     }
 
     /**

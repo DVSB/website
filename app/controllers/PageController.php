@@ -65,6 +65,6 @@ class PageController extends BaseController
      */
     public function showFaqs()
     {
-        return Redirect::to('http://docs.sentora.io/?node=94');
+        return Redirect::to('http://docs.sentora.org/?node=94');
     }
 }

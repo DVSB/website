@@ -52,7 +52,7 @@
                     <i class="ion-ios7-infinite"></i>
                     <h3>Supported</h3>
                     <p>
-                        Our community <a href="{{ URL::route('the-team') }}">support team</a> offer support via our <a href="http://forums.sentora.io" target="_blank">community forums</a> for those that require a faster response we also offer a <a href="{{ URL::route('support.premium') }}" target="_blank">premium support service</a>.
+                        Our community <a href="{{ URL::route('the-team') }}">support team</a> offer support via our <a href="http://forums.sentora.org" target="_blank">community forums</a> for those that require a faster response we also offer a <a href="{{ URL::route('support.premium') }}" target="_blank">premium support service</a>.
                     </p>
                 </div>
             </div>
