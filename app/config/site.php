@@ -7,10 +7,10 @@ return [
     'sentora_api_cache_timeout' => 10,
     // Quicker way of manipulating teams and team members for the 'about/the-team' page.
     'team' => [
-        ['name' => 'Project Owners',
+        ['name' => 'Project Leads',
             'members' => [
                 [
-					'name' => 'Tom Gates',
+		    'name' => 'Tom Gates',
                     'role' => 'Support Lead',
                     'gravatar_email' => 'tgates@mach-hosting.com',
                     'social_facebook' => 'https://www.facebook.com/tom.djjoker',
@@ -79,7 +79,7 @@ return [
             'name' => 'Support Team',
             'members' => [
                 [
-					'name' => 'Pieter',
+		    'name' => 'Pieter',
                     'role' => 'Forum Support',
                 ],
             ],
