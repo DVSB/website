@@ -36,7 +36,7 @@
 
             <h3>Latest stable release</h3>
             <p>The latest stable release is available to install by installers or upgraders <a href="https://github.com/sentora" class="hover-color" target="_blank">at GitHub</a>. 
-            !Important! : it is not advised to install from archive file, please use the installer provided for your os.</p>
+            !Important! : it is not advised to install from archive file, please use the installer provided for your operating system.</p>
             <p>You will find extended installation intructions in the <a href="http://docs.sentora.org/?node=7">documentation</a>.</p>
 
             <div class="divied-40"></div>
