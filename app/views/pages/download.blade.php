@@ -35,8 +35,9 @@
             </div>
 
             <h3>Latest stable release</h3>
-            <p>Installing (or upgrading) the latest release of Sentora is super-simple, just execute the following command on your server:</p>
-            <pre>bash <(curl -Ss https://raw.github.com/sentora/sentora-installers/master/installer.sh)</pre>
+            <p>The latest stable release is available to install by installers or upgraders <a href="https://github.com/sentora" class="hover-color" target="_blank">at GitHub</a>. 
+            !Important! : it is not advised to install from archive file, please use the installer provided for you os.</p>
+            <p>You will find installation notice in the <a href="http://docs.sentora.org/?node=7">documentation</a>.</p>
 
             <div class="divied-40"></div>
             <h3>Latest development snapshot</h3>
