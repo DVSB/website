@@ -7,6 +7,30 @@ return [
     'sentora_api_cache_timeout' => 10,
     // Quicker way of manipulating teams and team members for the 'about/the-team' page.
     'team' => [
+        ['name' => 'Project Owners',
+            'members' => [
+                ['name' => 'Tom Gates',
+                    'role' => 'Support Lead',
+                    'gravatar_email' => 'tgates@mach-hosting.com',
+                    'social_facebook' => 'https://www.facebook.com/tom.djjoker',
+                    'social_googleplus' => 'https://google.com/+TomGates71',
+                    'social_github' => 'https://github.com/TGates71',
+                ],
+                [
+                    'name' => 'Pascal Peyremorte',
+                    'role' => 'Developer Support Analyst',
+                    'gravatar_email' => 'p.peyremorte@wanadoo.fr',
+                    'social_github' => 'https://github.com/5050',
+                ],
+                [
+                    'name' => 'Sam Mottley',
+                    'role' => 'Developer',
+                    'gravatar_email' => 'sammottleys@gmail.com',
+                    'social_twitter' => 'https://twitter.com/sammottley',
+                    'social_github' => 'https://github.com/motters',
+                ],
+            ],
+        ],
         ['name' => 'Core Developement Team',
             'members' => [
                 [
