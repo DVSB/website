@@ -109,6 +109,15 @@ return [
                     'social_github' => '',
                 ],
                 [
+                    'name' => 'Pieter du Plooy',
+                    'role' => 'Forum Support Analyst',
+                    'gravatar_email' => '',
+                    'social_facebook' => '',
+                    'social_twitter' => '',
+                    'social_googleplus' => '',
+                    'social_github' => '',
+                ],
+                [
                     'name' => 'Mehdi',
                     'role' => 'Forum Support Analyst',
                     'gravatar_email' => '',
