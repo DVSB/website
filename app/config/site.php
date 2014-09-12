@@ -102,7 +102,6 @@ return [
                 [
                     'name' => 'Jay Laforteza',
                     'role' => 'Forum Support Analyst',
-                    'gravatar_email' => '',
                     'social_facebook' => 'https://www.facebook.com/Yajster',
                     'social_twitter' => 'https://twitter.com/Yajster',
                     'social_googleplus' => 'https://plus.google.com/115882281616819131634/posts',
