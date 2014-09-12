@@ -127,7 +127,7 @@ return [
                     'social_github' => '',
                 ],
                 [
-                    'name' => 'Remmy',
+                    'name' => 'Remmy Adewale',
                     'role' => 'Forum Support Analyst',
                     'gravatar_email' => 'goremmy@gmail.com',
                     'social_facebook' => 'https://www.facebook.com/goremmy',
