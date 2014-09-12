@@ -118,10 +118,10 @@ return [
                     'social_github' => '',
                 ],
                 [
-                    'name' => 'Mehdi',
+                    'name' => 'Mehdi Blagui',
                     'role' => 'Forum Support Analyst',
                     'gravatar_email' => '',
-                    'social_facebook' => 'https://www.facebook.com/sentoracp',
+                    'social_facebook' => '',
                     'social_twitter' => '',
                     'social_googleplus' => '',
                     'social_github' => 'https://github.com/MBlagui',
