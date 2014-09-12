@@ -10,7 +10,6 @@ return [
         ['name' => 'Project Owners',
             'members' => [
                 ['name' => 'Tom Gates',
-                    'forum_name' => 'TGates',
                     'role' => 'Support Lead',
                     'gravatar_email' => 'tgates@mach-hosting.com',
                     'social_facebook' => 'https://www.facebook.com/tom.djjoker',
