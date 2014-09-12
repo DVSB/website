@@ -9,7 +9,7 @@
         <link href="/css/ionicons.css" rel="stylesheet">
         <link href="/css/style.css" rel="stylesheet" type="text/css">
         <link href="/css/flexslider.css" rel="stylesheet">
-        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,100,700,500' rel='stylesheet' type='text/css'>
+        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700,500' rel='stylesheet' type='text/css'>
         @yield('scripts.top')
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>
