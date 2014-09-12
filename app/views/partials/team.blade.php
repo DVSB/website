@@ -6,8 +6,7 @@
         <img src="{{ Gravatar::make($member['gravatar_email'])->defaultGravatar('mm')->size(220)->get() }}" class="img-responsive" alt="">
         <div class="person-desc">
             <h4>{{ $member['name'] }}</h4>
-            <p>{{ $member['forum_name'] }}</p>
-            <p>{{ $member['role'] }}</p>
+             <p>{{ $member['role'] }}</p>
             <ul class="list-unstyled list-inline social">
                 @if(isset($member['social_facebook']) && $member['social_facebook'] != '')
                 <li><a href="{{ $member['social_facebook'] }}" target="_blank"><i class="ion-social-facebook-outline" data-toggle="tooltip" data-placement="top" title="" data-original-title="Facebook profile"></i></a></li>
