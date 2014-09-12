@@ -113,18 +113,6 @@ return [
                     'social_twitter' => 'https://twitter.com/jacobg830',
                     'social_github' => 'https://github.com/jacobg830',
                 ],
-                [
-                    'name' => 'Pieter du Plooy',
-                    'role' => 'Forum Support Analyst',
-                ],
-                [
-                    'name' => 'Mehdi',
-                    'role' => 'Forum Support Analyst',
-                ],
-                [
-                    'name' => 'Remmy',
-                    'role' => 'Forum Support Analyst',
-                ],
             ],
         ],
     ],
