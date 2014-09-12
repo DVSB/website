@@ -27,7 +27,7 @@
                 <h2>404</h2>
                 <h1>Sorry but the requested page could not be found!</h1>
                 <p class="margin-btm40">
-                    The page you are looking for might have been removed, had its name changed or is temporarily unavailable
+                    The page you are looking for might have been removed, had its name changed or is temporarily unavailable.
                 </p>
                 <a href="{{ URL::route('home') }}" class="btn btn-lg btn-dark">back to home page</a>
             </div>
