@@ -124,7 +124,7 @@ return [
                     'social_facebook' => 'https://www.facebook.com/sentoracp',
                     'social_twitter' => '',
                     'social_googleplus' => '',
-                    'social_github' => '',
+                    'social_github' => 'https://github.com/MBlagui',
                 ],
                 [
                     'name' => 'Remmy Adewale',
