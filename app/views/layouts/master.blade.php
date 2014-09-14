@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,9 +7,9 @@
         @yield('meta')
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         <link href="/css/ionicons.css" rel="stylesheet">
-        <link href="/css/style.css" rel="stylesheet" type="text/css">
+        <link href="/css/style.css" rel="stylesheet">
         <link href="/css/flexslider.css" rel="stylesheet">
-        <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,100,700,500' rel='stylesheet' type='text/css'>
+        <link href='//fonts.googleapis.com/css?family=Raleway:400,300,700,500' rel='stylesheet' type='text/css'>
         @yield('scripts.top')
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!--[if lt IE 9]>

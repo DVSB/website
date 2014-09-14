@@ -35,7 +35,7 @@
         </div>
         <div class="col-md-6">
             <h3>How do I subscribe?</h3>
-            <p>You can easily subscribe using PayPal over at our forums, click the button below to start this simply subscription process.</p>
+            <p>You can easily subscribe using PayPal over at our forums. Simply click the button below to start the subscription process.</p>
             <a href="http://forums.sentora.org/misc.php?action=payments" class="btn-primary btn btn-lg">Subscribe today!</a>
         </div>
     </div>

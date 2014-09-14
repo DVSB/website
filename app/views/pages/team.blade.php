@@ -30,7 +30,7 @@
     <div class="container">
         <div class="row">
             <p>The Sentora project requires the support of various teams and each with their own areas of responsibility and expertise.</a>
-            <p>Below is a list of our current team members. If you'd like to join our team please contact us at (sentoracp [at] gmail.com)</a>
+            <p>Below is a list of our current team members. If you'd like to join our team please contact us at (sentoracp [at] gmail.com).</a>
         </div>
         @include('partials.team')
 </section>

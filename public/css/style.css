@@ -1077,7 +1077,7 @@ input[type="url"]:focus,
 input[type="search"]:focus,
 input[type="tel"]:focus,
 input[type="color"]:focus,
-.form-control:focus{
+.form-control:focus {
     border: 1px solid #B3B3B3;
     background: #FFF;
     -webkit-box-shadow: none;
@@ -1086,15 +1086,15 @@ input[type="color"]:focus,
 }
 
 /*shortcodes typography css*/
-.colored-bg{
+.colored-bg {
     width: 100%;
     padding: 15px;
     background-color: #F54325;
 }
-.lead{
+.lead {
     font-weight: 300;
 }
-#map-canvas{
+#map-canvas {
     width: 100%;
     height: 400px;
 }
