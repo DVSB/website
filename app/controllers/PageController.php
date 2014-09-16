@@ -67,4 +67,13 @@ class PageController extends BaseController
     {
         return Redirect::to('http://docs.sentora.org/?node=94');
     }
+
+    /**
+    * Displays the 'Git' project page
+    * @return Illuminate\View\Factory
+    */
+    public function showGit()
+    {
+    return View::make('pages.git');
+    }
 }
