@@ -191,7 +191,7 @@
                     <li><i class="ion-checkmark-circled"></i> <a href="http://www.postfix.org/" target="_blank">Postfix</a></li>
                     <li><i class="ion-checkmark-circled"></i> <a href="http://www.dovecot.org/" target="_blank">Dovecot</a></li>
                 </ul>
-                <p calss="small">Third-party modules have the ability to substitute the core packages as well as add further packages.</p>
+                <p calss="small">Third-party modules or Community created modules, have the ability to substitute the core packages as well as add further functionality.</p>
             </div>
         </div>
 </section>
