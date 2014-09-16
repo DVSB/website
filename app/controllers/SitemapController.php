@@ -17,6 +17,7 @@ class SitemapController extends BaseController
         $sitemap->add(URL::route('download'), date('c', filemtime(app_path() . '/views/pages/download.blade.php')), '0.8', 'monthly');
         $sitemap->add(URL::route('support.premium'), date('c', filemtime(app_path() . '/views/pages/support.blade.php')), '0.7', 'monthly');
         $sitemap->add(URL::route('support.faqs'), date('c', filemtime(app_path() . '/views/pages/faqs.blade.php')), '0.7', 'monthly');
+        $sitemap->add(URL::route('git'), date('c', filemtime(app_path() . '/views/pages/git.blade.php')), '0.7', 'monthly');
         return $sitemap->render('xml');
     }
 }
