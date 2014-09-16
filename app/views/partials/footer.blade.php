@@ -5,7 +5,7 @@
                 <div class="footer-column">
                     <h3>Sentora</h3>
                     <p class="margin-btm20">
-                        Sentora is an open-source web hosting control panel built specifically to work on a variety of Linux distributions. Sentora is licensed under the GPLv3 and is a separately maintained fork of the original ZPanel project. Sentora is developed and maintained by the original members of the ZPanel team.
+                        Sentora is an open-source web hosting control panel built specifically to work on a variety of Linux distributions. Sentora is licensed under the GPLv3 and is a separately maintained fork of the original ZPanel project. Sentora is developed and maintained by the original members of the ZPanel team.<br />Meet the <a href="{{ URL::route('the-team') }}">Team</a>
                     </p>
                     <ul class="list-unstyled list-inline social">
                         <li><a href="https://www.facebook.com/sentoracp" target="_blank"><i class="ion-social-facebook-outline"  data-toggle="tooltip" data-placement="top" title="" data-original-title="Like On Facebook"></i></a></li>
