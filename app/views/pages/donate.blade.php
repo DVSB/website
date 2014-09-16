@@ -29,9 +29,9 @@
     <div class="row">
         <div class="col-md-6">
             <h3>Make a donation</h3>
-            <p>Please help drive the project forward and show your appreciation to the team by donating some money via. PayPal</p>
+            <p>Please help drive the project forward and show your appreciation to the Team by donating some money via. PayPal</p>
             <p>All donations received go towards paying our on-going running costs such as hosting, domain names and where applicable software licenses etc.</p>
-            <p>We truly appreciate all donations so please, if you use Sentora and appreciate the hard work that our team puts into the project please help us by donating today!</p>
+            <p>We truly appreciate all donations so please, if you use Sentora and appreciate the hard work that our Team puts into the project please help us by donating today!</p>
             <p>Many thanks,<br/>The Sentora Team.</p>
 
         </div>
@@ -43,7 +43,8 @@
             <ul>
                 <li><a href="http://www.supared.com/?ref=sentora" target="_blank">Supared</a></li>
                 <li><a href="http://www.zvps.co.uk/?ref=sentora" target="_blank">zVPS</a></li>
-                <li><a href="http://www.mach-hosting.com/?ref=sentora" target="_blank">Mach Hosting</a></li>  
+                <li><a href="http://www.mach-hosting.com/?ref=sentora" target="_blank">Mach Hosting</a></li>
+                <li>And Especially, YOU! Thanks for supporting Sentora!</li>
             </ul>
         </div>
     </div>
