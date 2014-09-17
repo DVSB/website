@@ -36,10 +36,10 @@ return [
                 [
                     'name' => 'Kevin Andrews',
                     'role' => 'Developer',
-                    'gravatar_email' => 'kevin@nforced.co.uk',
-                    'social_twitter' => 'http://twitter.com/_zVPS',
-                    'social_googleplus' => 'https://plus.google.com/109111406765342914674/',
-                    'social_github' => 'https://github.com/Caffe1neAdd1ct',
+                    'gravatar_email' => 'kevin@zvps.uk',
+                    'social_twitter' => 'https://twitter.com/_zVPS',
+                    'social_googleplus' => 'https://plus.google.com/+ZvpsCoUk/posts',
+                    'social_github' => 'https://github.com/zVPS',
                 ],
                 [
                     'name' => 'Sam Mottley',
