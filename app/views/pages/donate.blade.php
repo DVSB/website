@@ -43,8 +43,7 @@
             <ul>
                 <li><a href="http://www.supared.com/?ref=sentora" target="_blank">Supared</a></li>
                 <li><a href="http://www.zvps.co.uk/?ref=sentora" target="_blank">zVPS</a></li>
-                <li><a href="http://www.mach-hosting.com/?ref=sentora" target="_blank">Mach Hosting</a></li>
-                <li>And Especially, YOU! Thanks for supporting Sentora!</li>
+                <li><a href="http://www.mach-hosting.com/?ref=sentora" target="_blank">Mach-hosting</a></li>
             </ul>
         </div>
     </div>
