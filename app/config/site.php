@@ -7,7 +7,7 @@ return [
     'sentora_api_cache_timeout' => 10,
     // Quicker way of manipulating teams and team members for the 'about/the-team' page.
     'team' => [
-        ['name' => 'Project Counsil',
+        ['name' => 'Project Council',
             'members' => [
                 ['name' => 'Tom Gates',
                     'role' => 'Support Lead',
