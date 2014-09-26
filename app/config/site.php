@@ -102,7 +102,7 @@ return [
                 [
                     'name' => 'Yajster Laforteza',
                     'role' => 'Forum Support Analyst',
-                    'gravatar_email' => 'deejayyaj[at]gmail.com',
+                    'gravatar_email' => 'deejayyaj@gmail.com',
                     'social_facebook' => 'https://www.facebook.com/Yajster',
                     'social_twitter' => 'https://twitter.com/Yajster',
                     'social_googleplus' => 'https://plus.google.com/u/0/115882281616819131634',
