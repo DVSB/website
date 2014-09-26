@@ -100,13 +100,13 @@ return [
                     'social_github' => 'https://github.com/TGates71',
                 ],
                 [
-                    'name' => 'Jay Laforteza',
+                    'name' => 'Yajster Laforteza',
                     'role' => 'Forum Support Analyst',
-                    'gravatar_email' => '',
+                    'gravatar_email' => 'deejayyaj[at]gmail.com',
                     'social_facebook' => 'https://www.facebook.com/Yajster',
                     'social_twitter' => 'https://twitter.com/Yajster',
-                    'social_googleplus' => 'https://plus.google.com/115882281616819131634/posts',
-                    'social_github' => '',
+                    'social_googleplus' => 'https://plus.google.com/u/0/115882281616819131634',
+                    'social_github' => 'https://github.com/jd1pinoy', 
                 ],
                 [
                     'name' => 'Pieter du Plooy',
