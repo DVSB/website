@@ -19,7 +19,7 @@ return [
                 [
                     'name' => 'Pascal Peyremorte',
                     'role' => 'Developer Support Analyst',
-                    'gravatar_email' => 'ppeyremorte[at]sentora.org',
+                    'gravatar_email' => 'ppeyremorte@sentora.org',
                     'social_github' => 'https://github.com/5050',
                 ],
                 [
