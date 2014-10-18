@@ -9,6 +9,12 @@ return [
     'team' => [
         ['name' => 'Project Council',
             'members' => [
+                ['name' => 'Bobby Allen',
+                    'role' => 'Lead Developer',
+                    'gravatar_email' => 'ballen@bobbyallen.me',
+                    'social_twitter' => 'https://twitter.com/bobsta63',
+                    'social_github' => 'https://github.com/bobsta63',
+                ],
                 ['name' => 'Tom Gates',
                     'role' => 'Support Lead',
                     'gravatar_email' => 'tgates@mach-hosting.com',
@@ -33,6 +39,12 @@ return [
         ],
         ['name' => 'Core Developement Team',
             'members' => [
+                ['name' => 'Bobby Allen',
+                    'role' => 'Lead Developer',
+                    'gravatar_email' => 'ballen@bobbyallen.me',
+                    'social_twitter' => 'https://twitter.com/bobsta63',
+                    'social_github' => 'https://github.com/bobsta63',
+                ],
                 [
                     'name' => 'Kevin Andrews',
                     'role' => 'Developer',
