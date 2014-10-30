@@ -79,15 +79,6 @@ return [
                     'social_github' => 'https://github.com/jacobg830',
                 ],
                 [
-                    'name' => 'Nigel Caldwell',
-                    'role' => 'Developer Support Analyst',
-                    'gravatar_email' => 'zpanel.xystems@gmail.com',
-                    'social_facebook' => 'https://www.facebook.com/pstwo.guy',
-                    'social_twitter' => 'https://twitter.com/PS2Guy',
-                    'social_googleplus' => 'https://plus.google.com/+NigelCaldwell',
-                    'social_github' => 'https://github.com/PS2Guy',
-                ],
-                [
                     'name' => 'Lottfy Khalifa',
                     'role' => 'Developer Support Analyst',
                     'gravatar_email' => '',
