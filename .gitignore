@@ -1,3 +1,5 @@
+/_cgi-bin
+/_errorpages
 /laravel/bootstrap/compiled.php
 /laravel/vendor
 /laravel/composer.phar
